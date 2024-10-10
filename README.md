@@ -1,1 +1,1 @@
-Headers & libraries for the Microsoft DirectX SDK (June 2010)
+Headers & libraries for the Microsoft DirectX SDK (8.1)
